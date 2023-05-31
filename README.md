@@ -2,3 +2,4 @@
 
 ## Gravando mudanças no repositorios
 * agora vai por comandos
+* comando git pull
